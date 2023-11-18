@@ -15,3 +15,11 @@
 两种算法的实现细节在效率和空间上都没有达到最优
 
 请尽情优化
+
+### exp2 频繁项挖掘
+
+ DBLP合作关系挖掘
+
+数据源:[AMiner](https://www.aminer.cn/citation), 下载数据集: [DBLP-Citation-network V14](https://originalfileserver.aminer.cn/misc/dblp_v14.tar.gz)
+
+分析结果保存在 measures.csv

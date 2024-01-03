@@ -1,0 +1,9 @@
+Iris-virginica:
+	Accuracy: 0.938    Precision: 0.833    Recall: 1.000    F1-measure: 0.909    sample size: 10
+Iris-setosa:
+	Accuracy: 1.000    Precision: 1.000    Recall: 1.000    F1-measure: 1.000    sample size: 10
+Iris-versicolor:
+	Accuracy: 0.933    Precision: 1.000    Recall: 0.800    F1-measure: 0.889    sample size: 10
+
+Average:
+	Accuracy: 0.957    Precision: 0.933    Recall: 0.933    F1-measure: 0.933    testData size: 30

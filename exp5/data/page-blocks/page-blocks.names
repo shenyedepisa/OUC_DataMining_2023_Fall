@@ -1,0 +1,11 @@
+text, horiz, graphic, vert, picture
+height : integer
+length : integer
+area : integer
+eccen : continuous
+p_black : continuous
+p_and : continuous
+mean_tr : continuous
+blackpix : integer
+blackand : integer
+wb_trans : integer

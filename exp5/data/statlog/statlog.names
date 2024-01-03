@@ -1,0 +1,19 @@
+van, saab, bus, opel
+compactness : integer
+circularity : integer
+distance circularity : integer
+radius ratio : integer
+pr.axis aspect ratio : integer
+max.length aspect ratio : integer
+scatter ratio : integer
+elongatedness : integer
+pr.axis rectangularity : integer
+max.length rectangularity : integer
+scaled variance along major axis : integer
+scaled variance along minor axis : integer
+scaled radius of gyration : integer
+skewness about major axis : integer
+skewness about minor axis : integer
+kurtosis about minor axis : integer
+kurtosis about major axis : integer
+hollows ratio : inter

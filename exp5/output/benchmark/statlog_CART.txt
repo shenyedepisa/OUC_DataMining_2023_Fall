@@ -1,0 +1,11 @@
+bus:
+	Accuracy: 0.915    Precision: 0.826    Recall: 0.844    F1-measure: 0.835    sample size: 45
+van:
+	Accuracy: 0.910    Precision: 0.810    Recall: 0.810    F1-measure: 0.810    sample size: 42
+opel:
+	Accuracy: 0.791    Precision: 0.488    Recall: 0.538    F1-measure: 0.512    sample size: 39
+saab:
+	Accuracy: 0.790    Precision: 0.553    Recall: 0.488    F1-measure: 0.519    sample size: 43
+
+Average:
+	Accuracy: 0.850    Precision: 0.675    Recall: 0.675    F1-measure: 0.675    testData size: 169

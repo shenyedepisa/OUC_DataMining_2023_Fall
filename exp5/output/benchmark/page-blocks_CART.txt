@@ -1,0 +1,13 @@
+horiz:
+	Accuracy: 0.981    Precision: 0.831    Recall: 0.844    F1-measure: 0.837    sample size: 64
+text:
+	Accuracy: 0.950    Precision: 0.965    Recall: 0.979    F1-measure: 0.972    sample size: 979
+picture:
+	Accuracy: 0.974    Precision: 0.429    Recall: 0.222    F1-measure: 0.293    sample size: 27
+vert:
+	Accuracy: 0.994    Precision: 0.889    Recall: 0.762    F1-measure: 0.821    sample size: 21
+graphic:
+	Accuracy: 0.997    Precision: 0.500    Recall: 0.667    F1-measure: 0.571    sample size: 3
+
+Average:
+	Accuracy: 0.979    Precision: 0.947    Recall: 0.947    F1-measure: 0.947    testData size: 1094

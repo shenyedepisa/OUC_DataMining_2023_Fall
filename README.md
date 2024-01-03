@@ -39,3 +39,9 @@ PrefixSpan算法的实现
 但其实本次实验给的十个数据集大部分都是用来测试密度聚类算法的
 
 有兴趣的话建议用 [DBSCAN](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) 跑一下
+
+### exp5 决策树
+
+CART决策树算法和可视化, 没有进行剪枝 
+
+在iris, page-blocks, statlog数据集上进行了测试
